@@ -1,7 +1,4 @@
 1
-<<<<<<< HEAD
 2
 3
 4
-=======
->>>>>>> parent of 3414543... Added second line
